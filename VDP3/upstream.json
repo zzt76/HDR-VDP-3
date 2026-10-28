@@ -1,0 +1,7 @@
+{
+  "repository": "https://gitlab.com/wg1/jpeg-ai/jpeg-ai-qaf.git",
+  "branch": "feature/HDR-VDP2.2/main",
+  "commit": "0628a6b925e6513aff6fabfe81480648cfe40334",
+  "metric_version": "3.0.7",
+  "package_version": "3.0.7.post1"
+}
